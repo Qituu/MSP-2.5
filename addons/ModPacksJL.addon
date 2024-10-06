@@ -247,4 +247,4 @@ exec rm server-icon.png
 download_file https://www.dropbox.com/scl/fi/rwcaasa0y17m17vbkpeh9/icon.png?rlkey=znaxxw3w9r9ucrxbarxis4sd3&st=2uh1aug6&dl=1 server-icon.png
 exec rm Dark_RPG.zip
 say Dark RPG instalado!
-sleep 3 
+sleep 3
